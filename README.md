@@ -1,20 +1,67 @@
-This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
+# 🍎 iPhone 15 Pro Website Clone
 
-⚙️ Tech Stack
-React.js
-Three.js
-React Three Fiber
-React Three Drei
-GSAP (Greensock)
-Vite
-Tailwind CSS
-🔋 Features
-👉 Beautiful Subtle Smooth Animations using GSAP: Enhanced user experience with seamless and captivating animations powered by GSAP.
+A stunning replica of Apple’s iPhone 15 Pro product page built using **React.js**, **Tailwind CSS**, **Three.js**, and **GSAP**. This project showcases advanced animations, 3D model rendering, and responsive design—all optimized for modern web experiences.
 
-👉 3D Model Rendering with Different Colors and Sizes: Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options.
+---
 
-👉 Custom Video Carousel (made with GSAP): Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.
+## 🚀 Tech Stack
 
-👉 Completely Responsive: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+- **React.js**
+- **Vite**
+- **Tailwind CSS**
+- **GSAP (Greensock)**
+- **Three.js**
+- **React Three Fiber**
+- **React Three Drei**
 
-  and many more, including code architecture and reusability
+---
+
+## ✨ Features
+
+### 🎞️ Smooth GSAP Animations
+- Seamless transitions and scroll-based effects using GSAP.
+- Creates an immersive and elegant user experience.
+
+### 📱 3D iPhone 15 Pro Models
+- Interactive 3D models rendered with **Three.js**.
+- View the iPhone in **multiple colors and sizes**.
+- Easily customizable and optimized with React Three Fiber & Drei.
+
+### 🎥 Custom Video Carousel
+- Unique, GSAP-powered **video carousel**.
+- Engaging visual storytelling element that mimics the original Apple site.
+
+### 📱 Fully Responsive Design
+- Looks great on all screen sizes.
+- Optimized layout for desktop, tablet, and mobile devices.
+
+---
+
+## 🧠 Architecture Highlights
+
+- Modular and reusable components.
+- Clean and maintainable codebase using hooks and best React practices.
+- Animations and 3D scenes are separated for scalability.
+
+---
+
+
+
+## 📂 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/Aayush0003/IPhoneWebsite.git
+
+# Navigate to the project directory
+cd IPhoneWebsite
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+
+## 🧑‍💻 Author
+Aayush – GitHub
