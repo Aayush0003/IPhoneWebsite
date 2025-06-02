@@ -45,8 +45,6 @@ A stunning replica of Apple’s iPhone 15 Pro product page built using **React.j
 
 ---
 
-
-
 ## 📂 Getting Started
 
 ```bash
@@ -62,6 +60,8 @@ npm install
 # Start the development server
 npm run dev
 
+---
 
 ## 🧑‍💻 Author
 Aayush – GitHub
+
